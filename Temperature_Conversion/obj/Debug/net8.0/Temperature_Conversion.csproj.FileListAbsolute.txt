@@ -1,0 +1,14 @@
+C:\Users\altch\Downloads\Temperature_Conversion\Temperature_Conversion\bin\Debug\net8.0\Temperature_Conversion.exe
+C:\Users\altch\Downloads\Temperature_Conversion\Temperature_Conversion\bin\Debug\net8.0\Temperature_Conversion.deps.json
+C:\Users\altch\Downloads\Temperature_Conversion\Temperature_Conversion\bin\Debug\net8.0\Temperature_Conversion.runtimeconfig.json
+C:\Users\altch\Downloads\Temperature_Conversion\Temperature_Conversion\bin\Debug\net8.0\Temperature_Conversion.dll
+C:\Users\altch\Downloads\Temperature_Conversion\Temperature_Conversion\bin\Debug\net8.0\Temperature_Conversion.pdb
+C:\Users\altch\Downloads\Temperature_Conversion\Temperature_Conversion\obj\Debug\net8.0\Temperature_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altch\Downloads\Temperature_Conversion\Temperature_Conversion\obj\Debug\net8.0\Temperature_Conversion.AssemblyInfoInputs.cache
+C:\Users\altch\Downloads\Temperature_Conversion\Temperature_Conversion\obj\Debug\net8.0\Temperature_Conversion.AssemblyInfo.cs
+C:\Users\altch\Downloads\Temperature_Conversion\Temperature_Conversion\obj\Debug\net8.0\Temperature_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\altch\Downloads\Temperature_Conversion\Temperature_Conversion\obj\Debug\net8.0\Temperature_Conversion.dll
+C:\Users\altch\Downloads\Temperature_Conversion\Temperature_Conversion\obj\Debug\net8.0\refint\Temperature_Conversion.dll
+C:\Users\altch\Downloads\Temperature_Conversion\Temperature_Conversion\obj\Debug\net8.0\Temperature_Conversion.pdb
+C:\Users\altch\Downloads\Temperature_Conversion\Temperature_Conversion\obj\Debug\net8.0\Temperature_Conversion.genruntimeconfig.cache
+C:\Users\altch\Downloads\Temperature_Conversion\Temperature_Conversion\obj\Debug\net8.0\ref\Temperature_Conversion.dll
